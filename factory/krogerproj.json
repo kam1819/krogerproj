@@ -1,0 +1,9 @@
+{
+	"name": "krogerproj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b960247d-8bde-4f81-b75c-0f016a7bc6ec",
+		"tenantId": "27ca10f9-eebd-443a-b174-b38aabfe0878"
+	}
+}
